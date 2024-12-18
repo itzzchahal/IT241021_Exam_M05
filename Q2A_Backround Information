@@ -1,0 +1,18 @@
+Q2A
+Questions to Ask the End User:
+
+Is the issue occurring with all files or just specific files?
+
+Are you experiencing this issue on a specific version or build of Windows 11?
+
+Do you have any custom settings or third-party tools installed that could be affecting the behavior of Notepad?
+
+Does the problem occur when closing files through File > Exit, or only when clicking the "X" button in the top-right corner?
+
+Are you using a specific method to close the Notepad (e.g., keyboard shortcuts, task manager)?
+
+Have you checked if any updates are pending for Notepad or Windows 11?
+
+URL with Information:
+You can gather information from official Microsoft documentation or trusted forums. Here’s an example:
+Microsoft Support – Notepad in Windows 11
