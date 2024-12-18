@@ -1,0 +1,14 @@
+Repository Issue for Alternative Text Editors
+Issue Summary:
+
+"Consider exploring alternative text editing tools for Windows."
+Details:
+Since the default Notepad app does not offer customization features like saving prompts or other advanced functionalities, alternative text editors such as Notepad++ or Visual Studio Code might offer additional features, like customizable save prompts, more functionality, and overall user experience improvements.
+
+You could create an issue like this in your repository:
+vbnet
+
+
+Issue Title: Look into Alternative Text Editors for Windows
+Description:
+The default Notepad in Windows 11 lacks certain customization options, such as prompting t
